@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">PdvKotlin</string>
+    <string name="app_name">PDV Kotlin</string>
+    <string name="login_title">Entrar no PDV</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="products_title">Produtos</string>
+    <string name="sale_title">Caixa</string>
+    <string name="payment_title">Pagamento</string>
+    <string name="reports_title">Relatorios</string>
+    <string name="settings_title">Configuracoes</string>
 </resources>
